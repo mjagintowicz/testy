@@ -8,3 +8,4 @@ def fold(player: Player, current_deck: List[Card]) -> None:            #gracz pa
     deck.deck_update(current_deck.cards)
 
 
+#co jest
